@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DotNetCoreTest2.props" />
+</Project>

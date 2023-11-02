@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ziRTnZUy4foQYzbIs4kNjorYAnzsiQoPOp46a4VZ0sE=",
+  "Source": "MyFirstDotNetCoreWebAPITesting",
+  "BasePath": "_content/MyFirstDotNetCoreWebAPITesting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
