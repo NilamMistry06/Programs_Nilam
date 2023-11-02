@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\JayRide_Practical_Nilam.props" />
+</Project>
